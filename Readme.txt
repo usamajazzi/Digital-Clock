@@ -20,3 +20,6 @@ Fetches the current time using new Date().
 Converts to 12-hour format and sets AM/PM.
 Adds leading zeros for single-digit numbers.
 Updates the DOM every second with setInterval.
+
+License:
+This project is open-source and free to use."Digital Clock"
